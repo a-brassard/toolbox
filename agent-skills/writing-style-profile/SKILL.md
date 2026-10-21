@@ -4,6 +4,8 @@ description: Source-free drafting and revision prompts for writing research pape
 category: writing
 ---
 
+Use this skill when the user asks to draft, revise, outline, or check the claims of research-paper text in Ana Brassard's writing style, or invokes “writing style profile.” Apply the matching prompt below (drafting, revision, outline, or calibrated claims) to the user's text.
+
 # Ana Brassard Writing Style Guide
 ## Source-Free Drafting & Revision Prompts
 
