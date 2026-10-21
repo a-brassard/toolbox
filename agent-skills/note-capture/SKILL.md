@@ -38,7 +38,7 @@ Use at most one visual per note, place it at the top, and skip it when prose is 
 
 ### Context callout
 
-Finish with a Notion callout using the custom `:chatgpt:` emoji as the icon and no explicit color, so it keeps the plain background. Put one or two sentences in your voice inside it, addressing the user directly and reminding them why they asked for the note (for example, “You wanted a test note to refine the note-writing skill with.”). Do not add a **Context** heading inside the callout or use generic archival language.
+Finish with a Notion callout using Notion's gray info icon (`<callout icon="/icons/info-alternate_gray.svg">`) and no explicit color, so it keeps the plain background. Put one or two sentences in your voice inside it, addressing the user directly and reminding them why they asked for the note (for example, “You wanted a test note to refine the note-writing skill with.”). Do not add a **Context** heading inside the callout or use generic archival language.
 
 ### Further reading
 
