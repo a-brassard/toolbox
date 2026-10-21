@@ -20,7 +20,7 @@ Choose a descriptive, informative title independently of the rough topic wording
 
 When a visual would clarify the note, put it first, before the prose. Then use a short opening paragraph to orient the reader and state the main point. For source-based notes, introduce the source and organize its key takeaways into a compact bulleted list when that improves scanability; follow with a short paragraph for a related distinction or implication. Keep the prose neutral and assistant-authored in English. Distinguish established evidence from inference, hypothesis, and uncertainty. Attribute a user proposal when needed rather than presenting it as an established fact.
 
-After the key findings, add a **Resources** section when useful, then finish with a **Context** callout. Write Context in your voice, addressing the user directly, in one or two sentences that remind them why and when they asked for the note. Do not write a transcript, chronological thinking log, motivational commentary, or first-person text impersonating the user. Do not fill the word target with repetition.
+After the key findings, add a **Resources** section when useful, then finish with a **Context** callout. Write Context in your voice, addressing the user directly, in one or two sentences that remind them why they asked for the note. Do not write a transcript, chronological thinking log, motivational commentary, or first-person text impersonating the user. Do not fill the word target with repetition.
 
 ### References for claims
 
@@ -38,7 +38,7 @@ Use at most one visual per note, place it at the top, and skip it when prose is 
 
 ### Context callout
 
-Finish with a Notion callout using the gray information icon and no explicit color, so it keeps the plain background. Put one or two sentences in your voice inside it, addressing the user directly and reminding them why and when they asked for the note (for example, “You wanted a test note to refine the note-writing skill with.”). Do not add a **Context** heading inside the callout or use generic archival language.
+Finish with a Notion callout using the custom `:chatgpt:` emoji as the icon and no explicit color, so it keeps the plain background. Put one or two sentences in your voice inside it, addressing the user directly and reminding them why they asked for the note (for example, “You wanted a test note to refine the note-writing skill with.”). Do not add a **Context** heading inside the callout or use generic archival language.
 
 ### Further reading
 
